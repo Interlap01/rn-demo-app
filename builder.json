@@ -1,0 +1,14 @@
+{
+  "project": "rn-demo",
+  "platform": "ios",
+  "github": {
+    "owner": "MobAI-App",
+    "repo": "rn-demo-app"
+  },
+  "ios": {
+    "path": "ios"
+  },
+  "flutter": {},
+  "reactNative": {},
+  "mobai": {}
+}
